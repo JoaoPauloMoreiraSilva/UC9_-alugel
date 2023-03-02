@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC9_ alugel/1.0.0": {
+        "runtime": {
+          "UC9_ alugel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC9_ alugel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
